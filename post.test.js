@@ -1,0 +1,1 @@
+const {addPost,getPost, getPostId, getPostTitle } = require ('./routes/post.js')
