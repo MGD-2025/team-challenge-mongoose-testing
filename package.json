@@ -6,7 +6,6 @@
   "scripts": {
     "test": "jest",
     "start": "node --watch team-challenge-mongoose-testing/index.js"
-    
   },
   "repository": {
     "type": "git",
